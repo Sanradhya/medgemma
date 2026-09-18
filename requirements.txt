@@ -1,0 +1,8 @@
+streamlit
+pillow
+pydicom
+numpy
+python-dotenv
+httpx
+google-genai
+modal
